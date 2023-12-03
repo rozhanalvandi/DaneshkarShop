@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DTOs\" />
+    <None Remove="Services\" />
+    <None Remove="IServices\" />
+    <None Remove="Utilities\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+    <Folder Include="Services\" />
+    <Folder Include="IServices\" />
+    <Folder Include="Utilities\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DaneshkarShop.Data\DaneshkarShop.Data.csproj" />
+    <ProjectReference Include="..\DaneshkarShop.Domain\DaneshkarShop.Domain.csproj" />
+  </ItemGroup>
+</Project>
