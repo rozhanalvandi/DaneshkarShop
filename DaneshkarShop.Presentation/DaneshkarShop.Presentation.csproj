@@ -13,11 +13,27 @@
     <None Remove="Areas\" />
     <None Remove="Areas\Admin\" />
     <None Remove="Areas\Admin\Controllers\" />
+    <None Remove="Views\Account\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Shared\" />
     <Folder Include="Areas\" />
     <Folder Include="Areas\Admin\" />
     <Folder Include="Areas\Admin\Controllers\" />
+    <Folder Include="Views\Account\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DaneshkarShop.loc\DaneshkarShop.loc.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\DaneshkarShop.Domain\DaneshkarShop.Domain.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\DaneshakrShop.Application\DaneshakrShop.Application.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\Infra.Data\Infra.Data.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 </Project>

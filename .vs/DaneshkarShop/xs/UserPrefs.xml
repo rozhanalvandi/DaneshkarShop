@@ -1,25 +1,52 @@
 ﻿<Properties StartupConfiguration="{E811D6FA-899C-419A-8D52-74A1F9E61CB2}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DaneshkarShop.Presentation/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Presentation.DaneshkarShop.Presentation PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DaneshakrShop.Application/Services/UserService.cs">
     <Files>
-      <File FileName="DaneshkarShop.Presentation/Controllers/HomeController.cs" Line="33" Column="1" />
-      <File FileName="DaneshkarShop.Presentation/Views/Home/Index.cshtml" Line="51" Column="8" />
-      <File FileName="DaneshkarShop.Presentation/Areas/Admin/Controllers/HomeController.cs" Line="22" Column="1" />
-      <File FileName="DaneshkarShop.Presentation/Areas/Admin/Views/Home/Index.cshtml" Line="1" Column="1" />
-      <File FileName="DaneshkarShop.Presentation/Areas/Admin/Views/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="DaneshkarShop.Presentation/Program.cs" Line="39" Column="12" />
+      <File FileName="DaneshkarShop.Presentation/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="DaneshkarShop.Presentation/Views/Home/Index.cshtml" />
+      <File FileName="DaneshkarShop.Presentation/Areas/Admin/Controllers/HomeController.cs" />
+      <File FileName="DaneshkarShop.Presentation/Areas/Admin/Views/Home/Index.cshtml" />
+      <File FileName="DaneshkarShop.Presentation/Areas/Admin/Views/_ViewImports.cshtml" />
+      <File FileName="DaneshkarShop.Presentation/Program.cs" Line="22" Column="56" />
+      <File FileName="DaneshkarShop.Domain/IRepository/IUserRepository.cs" Line="29" Column="19" />
+      <File FileName="DaneshkarShop.loc/Repository/UserRepository.cs" />
+      <File FileName="DaneshkarShop.loc/AppDbContext/DaneshkarAppDbContext.cs" />
+      <File FileName="DaneshkarShop.Domain/Entity/User.cs" />
+      <File FileName="DaneshkarShop.Presentation/appsettings.json" />
+      <File FileName="DaneshakrShop.Application/IServices/IUserService.cs" Line="30" Column="19" />
+      <File FileName="DaneshakrShop.Application/Services/UserService.cs" Line="57" Column="1" />
+      <File FileName="DaneshkarShop.Domain/DTOs/SiteSide/Account/UserRegisterDTO.cs" />
+      <File FileName="DaneshakrShop.Application/Utilities/PasswordHelper.cs" />
+      <File FileName="Infra.Data/Repository/UserRepository.cs" Line="78" Column="42" />
+      <File FileName="Infra.Data/AppDbContext/DbContext.cs" Line="10" Column="10" />
+      <File FileName="DaneshkarShop.Presentation/Controllers/AccountController.cs" Line="71" Column="54" />
+      <File FileName="DaneshkarShop.Presentation/Views/Account/Login.cshtml" Line="5" Column="2" />
+      <File FileName="DaneshkarShop.Domain/DTOs/SiteSide/Account/UserLoginDTO.cs" Line="8" Column="45" />
+      <File FileName="DaneshkarShop.Domain/DTOs/AdminSite/User/ListOfUsersDTO.cs" Line="14" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DaneshkarShop">
+            <Node name="Application" expanded="True">
+              <Node name="DaneshakrShop.Application">
+                <Node name="IServices" expanded="True" />
+                <Node name="Services" expanded="True">
+                  <Node name="UserService.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
             <Node name="Presentation" expanded="True">
               <Node name="DaneshkarShop.Presentation">
-                <Node name="Areas">
-                  <Node name="Admin">
-                    <Node name="Controllers" expanded="True" />
-                  </Node>
+                <Node name="Controllers" expanded="True" />
+                <Node name="Views" expanded="True">
+                  <Node name="Account" expanded="True" />
                 </Node>
-                <Node name="Program.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -27,15 +54,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Application.DaneshakrShop.Application FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Infra.loc.DaneshkarShop.Data FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Domain.DaneshkarShop.Domain FirstBuild="True" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Presentation.DaneshkarShop.Presentation PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Infra.Data.DaneshkarShop.loc FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

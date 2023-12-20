@@ -11,11 +11,27 @@
     <None Remove="Enum\" />
     <None Remove="IRepository\" />
     <None Remove="ValueObject\" />
+    <None Remove="DTOs\" />
+    <None Remove="DTOs\AdminSite\" />
+    <None Remove="DTOs\SiteSide\" />
+    <None Remove="DTOs\UserSide\" />
+    <None Remove="DTOs\SiteSide\Account\" />
+    <None Remove="DTOs\AdminSite\User\" />
+    <None Remove="Entity\Role\" />
+    <None Remove="Entity\User\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Entity\" />
     <Folder Include="Enum\" />
     <Folder Include="IRepository\" />
     <Folder Include="ValueObject\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="DTOs\AdminSite\" />
+    <Folder Include="DTOs\SiteSide\" />
+    <Folder Include="DTOs\UserSide\" />
+    <Folder Include="DTOs\SiteSide\Account\" />
+    <Folder Include="DTOs\AdminSite\User\" />
+    <Folder Include="Entity\Role\" />
+    <Folder Include="Entity\User\" />
   </ItemGroup>
 </Project>

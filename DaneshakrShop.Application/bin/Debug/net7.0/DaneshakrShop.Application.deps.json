@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DaneshakrShop.Application/1.0.0": {
+        "dependencies": {
+          "DaneshkarShop.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DaneshakrShop.Application.dll": {}
+        }
+      },
+      "DaneshkarShop.Domain/1.0.0": {
+        "runtime": {
+          "DaneshkarShop.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DaneshakrShop.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DaneshkarShop.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

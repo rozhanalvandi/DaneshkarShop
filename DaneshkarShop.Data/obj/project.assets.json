@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/DaneshkarShop.Data.csproj",
-      "projectName": "DaneshkarShop.Data",
-      "projectPath": "/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/DaneshkarShop.Data.csproj",
+      "projectUniqueName": "/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/DaneshkarShop.loc.csproj",
+      "projectName": "DaneshkarShop.loc",
+      "projectPath": "/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/DaneshkarShop.loc.csproj",
       "packagesPath": "/Users/rozhanalvandi/.nuget/packages/",
       "outputPath": "/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/obj/",
       "projectStyle": "PackageReference",

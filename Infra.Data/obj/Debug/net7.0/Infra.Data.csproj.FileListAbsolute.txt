@@ -1,0 +1,17 @@
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/bin/Debug/net7.0/Infra.Data.deps.json
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/bin/Debug/net7.0/Infra.Data.runtimeconfig.json
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/bin/Debug/net7.0/Infra.Data.dll
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/bin/Debug/net7.0/Infra.Data.pdb
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/bin/Debug/net7.0/DaneshkarShop.Domain.dll
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/bin/Debug/net7.0/DaneshkarShop.Domain.pdb
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/obj/Debug/net7.0/Infra.Data.csproj.AssemblyReference.cache
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/obj/Debug/net7.0/Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/obj/Debug/net7.0/Infra.Data.AssemblyInfoInputs.cache
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/obj/Debug/net7.0/Infra.Data.AssemblyInfo.cs
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/obj/Debug/net7.0/Infra.Data.csproj.CoreCompileInputs.cache
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/obj/Debug/net7.0/Infra.Data.csproj.CopyComplete
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/obj/Debug/net7.0/Infra.Data.dll
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/obj/Debug/net7.0/refint/Infra.Data.dll
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/obj/Debug/net7.0/Infra.Data.pdb
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/obj/Debug/net7.0/Infra.Data.genruntimeconfig.cache
+/Users/rozhanalvandi/Projects/DaneshkarShop/Infra.Data/obj/Debug/net7.0/ref/Infra.Data.dll

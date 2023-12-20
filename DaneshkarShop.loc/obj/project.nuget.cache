@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3dk6Xo1BgQTmqoA/Mb6fKA/Ywzw3TpQDsc2Yu+48IkZ5deSwNk09/yYsfgxqNs+ZWqxWPczH0Njk5/YtJ2Z5iA==",
+  "dgSpecHash": "RHAldthRfmI7HPIZ+aZ5ZX9q0TWiDD5pBo/OJeo/bUWeM13YttFOAbx5zHJKpFWuT83aanq+bDmxnrbW7vB7AA==",
   "success": true,
-  "projectFilePath": "/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.loc/DaneshkarShop.loc.csproj",
+  "projectFilePath": "/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.loc/DaneshkarShop.Data.csproj",
   "expectedPackageFiles": [
     "/Users/rozhanalvandi/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/rozhanalvandi/.nuget/packages/microsoft.data.sqlite.core/7.0.12/microsoft.data.sqlite.core.7.0.12.nupkg.sha512",

@@ -1,0 +1,12 @@
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/bin/Debug/net7.0/DaneshkarShop.loc.deps.json
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/bin/Debug/net7.0/DaneshkarShop.loc.dll
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/bin/Debug/net7.0/DaneshkarShop.loc.pdb
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/obj/Debug/net7.0/DaneshkarShop.loc.csproj.AssemblyReference.cache
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/obj/Debug/net7.0/DaneshkarShop.loc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/obj/Debug/net7.0/DaneshkarShop.loc.AssemblyInfoInputs.cache
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/obj/Debug/net7.0/DaneshkarShop.loc.AssemblyInfo.cs
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/obj/Debug/net7.0/DaneshkarShop.loc.csproj.CoreCompileInputs.cache
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/obj/Debug/net7.0/DaneshkarShop.loc.dll
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/obj/Debug/net7.0/refint/DaneshkarShop.loc.dll
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/obj/Debug/net7.0/DaneshkarShop.loc.pdb
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Data/obj/Debug/net7.0/ref/DaneshkarShop.loc.dll

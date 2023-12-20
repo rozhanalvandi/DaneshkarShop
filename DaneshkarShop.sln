@@ -7,8 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{96AEF8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{26522BE4-335C-4AD0-BE5F-C72C089A2083}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Data", "Infra.Data", "{A9854AAC-4269-4A98-99D2-AB58E0D69C4C}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.loc", "Infra.loc", "{72032D4D-8FE7-41E0-8943-00B2B94E6A24}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{EA34446A-AF07-43EC-A5FA-C91F9395FBD0}"
@@ -17,11 +15,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaneshakrShop.Application",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaneshkarShop.Domain", "DaneshkarShop.Domain\DaneshkarShop.Domain.csproj", "{3FDA0CAC-4BB2-47E0-9FFF-7999EE98E842}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaneshkarShop.loc", "DaneshkarShop.loc\DaneshkarShop.loc.csproj", "{81F008BD-5EE0-4B3A-989D-90B764B0C632}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaneshkarShop.Data", "DaneshkarShop.Data\DaneshkarShop.Data.csproj", "{95E03F6B-0EDC-4A3C-B4D4-B5934F44B1FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaneshkarShop.loc", "DaneshkarShop.Data\DaneshkarShop.loc.csproj", "{95E03F6B-0EDC-4A3C-B4D4-B5934F44B1FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaneshkarShop.Presentation", "DaneshkarShop.Presentation\DaneshkarShop.Presentation.csproj", "{E811D6FA-899C-419A-8D52-74A1F9E61CB2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Data", "Infra.Data", "{6EB6936B-6B98-4E21-914F-F9FEFCB6F5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra.Data", "Infra.Data\Infra.Data.csproj", "{E21B4EF8-0FC1-4A5B-9655-2E84E8405AAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,10 +37,6 @@ Global
 		{3FDA0CAC-4BB2-47E0-9FFF-7999EE98E842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FDA0CAC-4BB2-47E0-9FFF-7999EE98E842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FDA0CAC-4BB2-47E0-9FFF-7999EE98E842}.Release|Any CPU.Build.0 = Release|Any CPU
-		{81F008BD-5EE0-4B3A-989D-90B764B0C632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81F008BD-5EE0-4B3A-989D-90B764B0C632}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81F008BD-5EE0-4B3A-989D-90B764B0C632}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81F008BD-5EE0-4B3A-989D-90B764B0C632}.Release|Any CPU.Build.0 = Release|Any CPU
 		{95E03F6B-0EDC-4A3C-B4D4-B5934F44B1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{95E03F6B-0EDC-4A3C-B4D4-B5934F44B1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95E03F6B-0EDC-4A3C-B4D4-B5934F44B1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -49,6 +45,10 @@ Global
 		{E811D6FA-899C-419A-8D52-74A1F9E61CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E811D6FA-899C-419A-8D52-74A1F9E61CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E811D6FA-899C-419A-8D52-74A1F9E61CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21B4EF8-0FC1-4A5B-9655-2E84E8405AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21B4EF8-0FC1-4A5B-9655-2E84E8405AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21B4EF8-0FC1-4A5B-9655-2E84E8405AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21B4EF8-0FC1-4A5B-9655-2E84E8405AAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,8 +59,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{30561204-0D25-4C8C-AF1E-F1207C7FC887} = {26522BE4-335C-4AD0-BE5F-C72C089A2083}
 		{3FDA0CAC-4BB2-47E0-9FFF-7999EE98E842} = {96AEF8CC-9B4A-4BDA-BDF7-3C1611DBD753}
-		{81F008BD-5EE0-4B3A-989D-90B764B0C632} = {A9854AAC-4269-4A98-99D2-AB58E0D69C4C}
 		{95E03F6B-0EDC-4A3C-B4D4-B5934F44B1FE} = {72032D4D-8FE7-41E0-8943-00B2B94E6A24}
 		{E811D6FA-899C-419A-8D52-74A1F9E61CB2} = {EA34446A-AF07-43EC-A5FA-C91F9395FBD0}
+		{E21B4EF8-0FC1-4A5B-9655-2E84E8405AAE} = {6EB6936B-6B98-4E21-914F-F9FEFCB6F5B6}
 	EndGlobalSection
 EndGlobal
