@@ -2,6 +2,7 @@
 using DaneshkarShop.Domain.DTOs.AdminSite.User;
 using DaneshkarShop.Domain.DTOs.SiteSide.Account;
 using DaneshkarShop.Domain.Entity;
+using DaneshkarShop.Domain.Entity.User;
 
 namespace DaneshakrShop.Application.IServices
 {

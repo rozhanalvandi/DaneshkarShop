@@ -4,6 +4,7 @@ using DaneshakrShop.Application.Utilities;
 using DaneshkarShop.Domain.DTOs.AdminSite.User;
 using DaneshkarShop.Domain.DTOs.SiteSide.Account;
 using DaneshkarShop.Domain.Entity;
+using DaneshkarShop.Domain.Entity.User;
 using DaneshkarShop.Domain.IRepository;
 
 namespace DaneshakrShop.Application.Services

@@ -10,3 +10,5 @@
 /Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Domain/obj/Debug/net7.0/refint/DaneshkarShop.Domain.dll
 /Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Domain/obj/Debug/net7.0/DaneshkarShop.Domain.pdb
 /Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Domain/obj/Debug/net7.0/ref/DaneshkarShop.Domain.dll
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Domain/bin/Debug/net7.0/DaneshkarShop.Domain.runtimeconfig.json
+/Users/rozhanalvandi/Projects/DaneshkarShop/DaneshkarShop.Domain/obj/Debug/net7.0/DaneshkarShop.Domain.genruntimeconfig.cache

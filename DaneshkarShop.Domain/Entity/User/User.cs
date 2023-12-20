@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using DaneshkarShop.Domain.Entity.Role;
+
 namespace DaneshkarShop.Domain.Entity.User
 {
 	public class User
@@ -9,10 +11,11 @@ namespace DaneshkarShop.Domain.Entity.User
 		public string Password { get; set; }
 		public DateTime CreateDate { get; set; }
 		public bool IsDelete { get; set; }
-		public int RoleId { get; set; }
+		
 
-		public Role.Role Role { get; set; }
+		public ICollection<UserSelectedRole> UserSelectedRoles { get; set; }
 
-	}
+    }
 }
+
 

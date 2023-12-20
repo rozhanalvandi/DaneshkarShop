@@ -3,50 +3,42 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DaneshakrShop.Application/Services/UserService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infra.Data/AppDbContext/DaneshkarAppDbContext.cs">
     <Files>
-      <File FileName="DaneshkarShop.Presentation/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="DaneshkarShop.Presentation/Controllers/HomeController.cs" />
       <File FileName="DaneshkarShop.Presentation/Views/Home/Index.cshtml" />
-      <File FileName="DaneshkarShop.Presentation/Areas/Admin/Controllers/HomeController.cs" />
+      <File FileName="DaneshkarShop.Presentation/Areas/Admin/Controllers/HomeController.cs" Line="1" Column="1" />
       <File FileName="DaneshkarShop.Presentation/Areas/Admin/Views/Home/Index.cshtml" />
       <File FileName="DaneshkarShop.Presentation/Areas/Admin/Views/_ViewImports.cshtml" />
-      <File FileName="DaneshkarShop.Presentation/Program.cs" Line="22" Column="56" />
-      <File FileName="DaneshkarShop.Domain/IRepository/IUserRepository.cs" Line="29" Column="19" />
+      <File FileName="DaneshkarShop.Presentation/Program.cs" />
+      <File FileName="DaneshkarShop.Domain/IRepository/IUserRepository.cs" />
       <File FileName="DaneshkarShop.loc/Repository/UserRepository.cs" />
       <File FileName="DaneshkarShop.loc/AppDbContext/DaneshkarAppDbContext.cs" />
-      <File FileName="DaneshkarShop.Domain/Entity/User.cs" />
+      <File FileName="DaneshkarShop.Domain/Entity/User.cs" Line="1" Column="1" />
       <File FileName="DaneshkarShop.Presentation/appsettings.json" />
-      <File FileName="DaneshakrShop.Application/IServices/IUserService.cs" Line="30" Column="19" />
+      <File FileName="DaneshakrShop.Application/IServices/IUserService.cs" />
       <File FileName="DaneshakrShop.Application/Services/UserService.cs" Line="57" Column="1" />
       <File FileName="DaneshkarShop.Domain/DTOs/SiteSide/Account/UserRegisterDTO.cs" />
       <File FileName="DaneshakrShop.Application/Utilities/PasswordHelper.cs" />
-      <File FileName="Infra.Data/Repository/UserRepository.cs" Line="78" Column="42" />
-      <File FileName="Infra.Data/AppDbContext/DbContext.cs" Line="10" Column="10" />
+      <File FileName="Infra.Data/Repository/UserRepository.cs" />
       <File FileName="DaneshkarShop.Presentation/Controllers/AccountController.cs" Line="71" Column="54" />
-      <File FileName="DaneshkarShop.Presentation/Views/Account/Login.cshtml" Line="5" Column="2" />
-      <File FileName="DaneshkarShop.Domain/DTOs/SiteSide/Account/UserLoginDTO.cs" Line="8" Column="45" />
-      <File FileName="DaneshkarShop.Domain/DTOs/AdminSite/User/ListOfUsersDTO.cs" Line="14" Column="19" />
+      <File FileName="DaneshkarShop.Presentation/Views/Account/Login.cshtml" />
+      <File FileName="DaneshkarShop.Domain/DTOs/SiteSide/Account/UserLoginDTO.cs" />
+      <File FileName="DaneshkarShop.Domain/DTOs/AdminSite/User/ListOfUsersDTO.cs" />
+      <File FileName="DaneshkarShop.Domain/Entity/Role/Role.cs" Line="2" Column="45" />
+      <File FileName="DaneshkarShop.Domain/Entity/Role/UserSelectedRole.cs" Line="11" Column="37" />
+      <File FileName="Infra.Data/AppDbContext/DaneshkarAppDbContext.cs" Line="27" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DaneshkarShop">
-            <Node name="Application" expanded="True">
-              <Node name="DaneshakrShop.Application">
-                <Node name="IServices" expanded="True" />
-                <Node name="Services" expanded="True">
-                  <Node name="UserService.cs" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-            <Node name="Presentation" expanded="True">
-              <Node name="DaneshkarShop.Presentation">
-                <Node name="Controllers" expanded="True" />
-                <Node name="Views" expanded="True">
-                  <Node name="Account" expanded="True" />
-                </Node>
+          <Node name="DaneshkarShop" expanded="True">
+            <Node name="Infra.Data" expanded="True">
+              <Node name="Infra.Data" expanded="True">
+                <Node name="AppDbContext" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -54,5 +46,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

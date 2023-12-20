@@ -1,6 +1,7 @@
 ﻿using System;
 using DaneshkarShop.Domain.DTOs.AdminSite.User;
 using DaneshkarShop.Domain.Entity;
+using DaneshkarShop.Domain.Entity.User;
 
 namespace DaneshkarShop.Domain.IRepository
 {
